@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "乗り気",
+  "base_artist": "東京事変",
+  "createdAt": "2026-02-06T20:16:52.932537Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "乗り気",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/01_乗り気_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "乗り気",
+      "artist": "Tokyo Jihen",
+      "has_synced": false,
+      "path": "select/02_乗り気_Tokyo_Jihen.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "乗り気",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_乗り気_東京事変.txt"
+    }
+  ]
+}
